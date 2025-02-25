@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: talhazaman2001/go-web-app
-  tag: "v1" # override the tag from the chart
+  tag: "13520057734"
   pullPolicy: IfNotPresent
 
 ingress:
